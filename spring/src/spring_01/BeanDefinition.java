@@ -1,4 +1,4 @@
-package beanContainer;
+package spring_01;
 
 public class BeanDefinition {
     private Object bean;

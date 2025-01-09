@@ -1,4 +1,4 @@
-package beanContainer;
+package spring_01;
 
 public class ApiTest {
     public static void main(String[] args) {
